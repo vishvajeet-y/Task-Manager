@@ -50,12 +50,6 @@ npm install
 - Run this command to install all React dependencies for the project.
 
 ```
-npm run client-install
-```
-
-- Or Use
-
-```
 cd client
 npm install
 ```
@@ -71,6 +65,7 @@ npm install
 - Run this command to start the project on local host 3000.
 
 ```
+cd ..
 npm run dev
 ```
 

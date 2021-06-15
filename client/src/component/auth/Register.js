@@ -12,6 +12,7 @@ const Register=(props)=> {
     const [error,seterror]=useState({})
    
     useEffect(()=>{
+      if(isAuthenticate)
       props.history.push('/dashboard')
     },[isAuthenticate,props.history])
      
