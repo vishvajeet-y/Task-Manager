@@ -46,10 +46,13 @@ npm install
 ```
 
 <br/>
-* Run this command to install all React dependencies for the project.
+
+- Run this command to install all React dependencies for the project.
+
 ```
 npm client-install
 ```
+
 <br/>
 
 - Run this command on your terminal/ bash to start the Mongo server on port 27017(default).
@@ -75,3 +78,48 @@ http://localhost:3000/
 ```
 
 <br/>
+
+### Overview
+
+This project aims to create task for the user.
+
+### Features
+
+- It allow user to add Task,Edit Task and Remove Task.
+
+### Development
+
+- The project follows an engineered structure for both backend and frontend development. The initial entry point is by default `server.js`
+- The project utilises Bootstrap (v5) for it's primary styling purposes.
+- The project contains the following scripts:
+  - `npm run dev`: This script runs the app in development mode.
+
+#### Guidelines
+
+    - The usage of each directory is listed below for ease of  navigation and  understanding.
+
+#### `router/api`
+
+    - This directory contains all the routes for ```get``` and ```post``` methods.
+
+#### `model/`
+
+     - This directory contains all the Mongoose models and schemas.
+
+#### `model/`
+
+     - This directory contains all the Mongoose models and schemas.
+
+#### `middleware/`
+
+     - This directory contains authentication of user.
+
+#### `Validation/`
+
+     - This directory contains all files for validating user input.
+
+#### `client/`
+
+     - This directory contains all React Js file for Frontend Development.
+
+
