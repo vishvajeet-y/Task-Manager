@@ -15,9 +15,9 @@ const Landing=(props)=> {
             <div className="row">
             <div className="col-md-12 text-center">
          
-            <h1 className="display-4">Generic</h1>
+            <h1 className="display-4">Task Manager</h1>
             <p className="lead">
-             Build signup and login
+             Create Your Task
             </p>
             <hr />
             
