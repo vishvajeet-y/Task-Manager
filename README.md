@@ -39,6 +39,10 @@ in your git bash.
 
 - Run command `cd Task-Manager`.
   <br/>
+- Create `.env` file
+  insert key `SECRET_KEY`and give it a value.
+  <br/>
+
 - Run this command to install all backend dependencies for the project.
 
 ```
