@@ -1,0 +1,8 @@
+export const GET_ERRORS='GET_ERRORS'
+export const CLEAR_ERRORS='CLEAR_ERRORS'
+export const GET_USER='GET_USER'
+export const GET_TASKS='GET_TASKS'
+export const GET_TASK='GET_TASK'
+export const TASK_LOADING='TASK_LOADING'
+export const DELETE_TASK='DELETE_TASK'
+export const EDIT_TASK='EDIT_TASK'
