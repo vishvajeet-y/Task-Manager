@@ -53,13 +53,18 @@ npm install
 npm run client-install
 ```
 
+- Or Use
+
+```
+cd client
+npm install
+```
+
 <br/>
 
-- Run this command on your terminal/ bash to start the Mongo server on port 27017(default).
+- To start the Mongo server on port 27017(default) on your terminal/ bash,Follow given link.
 
-```
-mongod
-```
+[monogodb](https://medium.com/stackfame/run-mongodb-as-a-service-in-windows-b0acd3a4b712)
 
 <br/>
 
