@@ -106,10 +106,6 @@ This project aims to create task for the user.
 
      - This directory contains all the Mongoose models and schemas.
 
-#### `model/`
-
-     - This directory contains all the Mongoose models and schemas.
-
 #### `middleware/`
 
      - This directory contains authentication of user.
