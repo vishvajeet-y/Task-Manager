@@ -50,7 +50,7 @@ npm install
 - Run this command to install all React dependencies for the project.
 
 ```
-npm client-install
+npm run client-install
 ```
 
 <br/>
@@ -121,5 +121,3 @@ This project aims to create task for the user.
 #### `client/`
 
      - This directory contains all React Js file for Frontend Development.
-
-
